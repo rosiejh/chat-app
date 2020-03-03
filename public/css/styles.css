@@ -38,7 +38,7 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: rgb(18, 154, 18);
+    background: rgb(240, 124, 0);
     border: none;
     color: white;
     font-size: 16px;
@@ -46,12 +46,12 @@ button {
 }
 
 button:hover {
-    background: rgb(8, 89, 8);
+    background: rgb(157, 81, 0);
 }
 
 button:disabled {
     cursor: default;
-    background: rgb(187, 226, 187);
+    background: rgb(249, 195, 137);
 }
 
 /* Join Page Styles */
